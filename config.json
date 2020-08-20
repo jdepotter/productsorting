@@ -1,0 +1,11 @@
+{
+    "metrics": [
+        "net_sales",
+        "net_sales_units"
+    ],
+    "props": [
+        ["property0", "net_sales"],
+        ["property1", "net_sales"],
+        ["property2", "net_sales_units"]
+    ]
+}
